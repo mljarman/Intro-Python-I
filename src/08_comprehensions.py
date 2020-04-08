@@ -12,7 +12,7 @@ for more info regarding list comprehensions.
 
 y = [i for i in range(1,6)]
 
-print('\n',y,'\n')
+print(y,'\n')
 
 # Write a list comprehension to produce the cubes of the numbers 0-9:
 # [0, 1, 8, 27, 64, 125, 216, 343, 512, 729]

@@ -12,7 +12,7 @@ Use Python's slice syntax to achieve the following:
 a = [2, 4, 1, 7, 9, 6]
 
 # Output the second element: 4:
-print('\nSecond Element:', a[1], '\n')
+print('Second Element:', a[1], '\n')
 
 # Output the second-to-last element: 9
 print('Second-to-Last Element:', a[4], '\n')

@@ -10,7 +10,7 @@ import sys
 
 # Print out the command line arguments in sys.argv, one per line:
 # YOUR CODE HERE
-print('\nCommand Line Arguments:')
+print('Command Line Arguments:')
 ([(print(i)) for i in sys.argv], '\n')
 print('\n')
 
